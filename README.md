@@ -5,11 +5,17 @@ I am a Cybersecurity Researcher, specializing in Offensive Security, IoT Threats
 
  My projects:
 🔗 [SQL Injection Lab – Manual & Automated Exploits](https://github.com/Nanditha-Bhat/offensive-security-lab)
+
 🔗 [XSS & CSRF Exploits – DVWA](https://github.com/Nanditha-Bhat/xss-csrf-lab)
+
 🔗 [IEEE Research: Image Encryption Using Chaotic Maps](https://ieeexplore.ieee.org/document/10391648)
+
 🔗 [NanoEdge AI – Anomaly Detection on STM32](https://github.com/Nanditha-Bhat/nanoedge-anomaly-iot)
+
 🔗 [SLAM + Deep RL Terrain Mapping](https://github.com/Nanditha-Bhat/slam-rl-robotics)
+
 🔗 [CompTIA Security+ Notes](https://github.com/Nanditha-Bhat/notes-security-plus)
+
 
  Tools I Use
 sqlmap · Burp Suite · Wireshark · Metasploit · Hydra · John the Ripper  
